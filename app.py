@@ -1,1 +1,1 @@
-print("Hello from CI-built Docker container! 🚀 new 2")
+print("Hello from ECR-based Docker container! new 🚀")
